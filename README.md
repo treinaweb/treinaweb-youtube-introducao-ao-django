@@ -4,7 +4,7 @@ Código-fonte produzido durante os vídeos da playlist de introdução ao Django
 
 ## Lista de Commits
 
-| Video    | Commit                                                                             |
+| Video    | Commit                                                                             | Link                                                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Vídeo 01 | Vídeo 01 - Como criar e executar um projeto Django?                                | [Download](https://github.com/treinaweb/treinaweb-youtube-introducao-ao-django/archive/8eb71d480ecfbe21c8caa6b1957c4222ac8490f3.zip) |
 | Vídeo 02 | Vídeo 02 - Como é a estrutura de pastas de um projeto Django e como criar uma app? | [Download](https://github.com/treinaweb/treinaweb-youtube-introducao-ao-django/archive/8aeb62a1062d1212566ef99e432cb84117ab2395.zip) |
