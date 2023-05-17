@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+
+{% block page_title %}
+  Nova Tarefa
+{% endblock page_title %}
+
+{% block content %}
+  <h1>Nova de Tarefa</h1>
+
+  <form method="POST">
+    {% csrf_token %}
+
+    {{ form|crispy }}
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+  </form>
+{% endblock content %}
+
+    
